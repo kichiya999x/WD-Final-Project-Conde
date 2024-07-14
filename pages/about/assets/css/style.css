@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+header {
+    width: 100%;
+    position: fixed;
+    z-index: 20;
+  }
+  
+  .design-twoa {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 5vw;
+    align-items: center;
+    background: rgb(13, 13, 13);
+  
+    & > .navigation {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      padding: 16px 48px;
+      height: 60px;
+  
+    & > .navigation-content {
+        color: aliceblue;
+        font-weight: 400;
+        font-size: 1.2rem;
+        transition: transform 0.4s ease-in-out, transform 0.3s ease-in-out;
+        text-decoration: none;
+        margin-left: 3vw;
+    }
+    & > a.navigation-content:hover {
+      transform: scale(1.1);
+  }
+    }
+
+}
+
+.main {
+  font-family: 'Roboto Slab', serif;
+  background-color: #e8e8e8;
+  font-size: 16px;
+}
+
+.section-1 {
+  background-image: url(https://i.pinimg.com/564x/85/32/9e/85329e7c85499ab2779e6dd705f59c70.jpg);
+  height: 450px;
+  background-size: cover;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.section-1-inner-col {
+  position: relative;
+}
+
+.image-frame {
+  width: 380px;
+  height: 380px;
+  background-image: url(../../../../assets/img/profile.jpg);
+  background-position: center;
+  background-size: cover;
+  border: 6px solid #ffffff;
+  border-radius: 50%;
+  position: absolute;
+  top: 110px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.section-2 {
+  margin: 60px 0 0 0;
+  padding: 100px 0px 50px 0px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.primary-heading {
+  font-size: 52px;
+  font-weight: 600;
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  line-height: 1.2;
+  color: rgb(0, 0, 0)
+}
+
+.paragraph {
+  width: 50%;
+  font-size: 18px;
+  font-weight: 300;
+  color:#000000
+}
+
+.section-2-button {
+  color: #000000;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-top: 50px;
+}
+
+.section-2-button:hover {
+  text-decoration: 3px solid !important;
+  color: #ffffff;
+}
