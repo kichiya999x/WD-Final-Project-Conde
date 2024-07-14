@@ -12,14 +12,14 @@ a{
 
 html {
     scroll-behavior: smooth;
-  }
+}
 
 header {
     width: 100%;
     position: fixed;
     z-index: 20;
-  }
-  
+}
+
   .design-twoa {
     display: flex;
     justify-content: space-between;
@@ -46,7 +46,6 @@ header {
       transform: scale(1.1);
   }
     }
-
 }
 
 .home {
