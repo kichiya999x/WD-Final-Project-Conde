@@ -4,16 +4,16 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/kichiya999x">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="https://i.pinimg.com/564x/a1/25/4d/a1254de3bb800f3dcc3dd23bd596fe43.jpg" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Personal Website</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Welcome to my personal website, a dynamic showcase of my design skills and web development expertise. This site features five distinct pages, each with a unique and visually appealing layout, providing an in-depth look at my professional journey. Explore my resume-like page highlighting my skills, experience, and qualifications, a dedicated project showcase with detailed descriptions and repository links, and a contact page for easy communication. 
 </div>
 
 <br />
@@ -57,13 +57,42 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+What is the project:
+The project involves creating a personal website that serves as an online portfolio, showcasing my design skills and web development expertise. The website includes multiple sections such as an introduction, resume, project showcase, blog, and contact information.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+Purpose:
+The primary purpose of this project is to present a professional, polished, and comprehensive online presence. It aims to:
+
+Showcase my skills, experience, and qualifications in a visually appealing manner.
+Provide detailed insights into my projects, including the technologies and methodologies used.
+Share my thoughts and knowledge through a blog.
+Facilitate easy communication and networking through a contact page.
+Key Components:
+
+Home Page:
+
+Introduction: Provides a brief overview of who I am and what I do.
+Highlights: Key skills and professional experiences are summarized to give visitors a quick insight.
+Navigation: Clear and intuitive links to other sections of the website.
+Resume Page:
+
+Skills Section: A detailed list of my technical and soft skills.
+Experience Section: An overview of my professional work history, including roles and responsibilities.
+Education Section: Information about my academic background and certifications.
+Downloadable Resume: An option for visitors to download a PDF version of my resume.
+Projects Page:
+
+Project Descriptions: In-depth explanations of significant projects, including objectives, challenges, solutions, and outcomes.
+Repository Links: Direct links to the code repositories for each project, allowing visitors to explore the code and collaborate.
+Blog Page:
+
+Posts: A collection of articles, tutorials, and insights related to design and web development.
+Regular Updates: Frequent updates to keep the content fresh and engaging.
+Contact Page:
+
+Contact Form: A user-friendly form for visitors to reach out directly.
+Social Media Links: Direct links to my professional social media profiles.
+Contact Information: Additional details for inquiries, collaborations, or networking.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -76,7 +105,6 @@ Guiding Question:
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -116,5 +144,7 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Google Font | Change Font | https://fonts.google.com/specimen/Oswald?query=oswald |
+| Google Font | Change Font | https://fonts.google.com/specimen/Roboto |
+| Bootstrap | Provides a collection of syntax for template designs |https://getbootstrap.com/ |
+| Zomato Website | Reference used | https://aditya12gusain.github.io/zomato-landing-page-10622/ |
